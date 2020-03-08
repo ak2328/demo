@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello
+=======
+hello12345
+>>>>>>> very-bad
 
